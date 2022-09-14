@@ -1,0 +1,3 @@
+# Alzheimers-Prediction
+Alzheimer's disease (AD) is a progressive neurodegenerative disease that causes the brain to shrink (atrophy) and brain cells to die. By using ML and DL techniques, it is now possible to predict the stages of Alzheimer’s: Mild Demented, Very Mild Demented, Non-Demented, and Moderate Demented due to the advancement of technology in the medical sector. We do this by analyzing the MRI scanned images in order to classify the patients if in future there is a possibility of having AD or not. AD is predicted using ML algorithms by using a feature selection and extraction technique. Classification is done on the basis of oasis longitudinal dataset. 
+## Technologies Used : CNN
